@@ -1,4 +1,4 @@
-# series1#EXTM3U#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E01" tvg-logo="http://tv.iptv5latino.cl:8000/images/925bd516378e5fa63e6f3742bd8d7132.jpg" group-title="SERIES ANIME",Samurai X S01 E01
+#EXTM3U#EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E01" tvg-logo="http://tv.iptv5latino.cl:8000/images/925bd516378e5fa63e6f3742bd8d7132.jpg" group-title="SERIES ANIME",Samurai X S01 E01
 http://tv.iptv5latino.cl:8000/series/quinta1mes480/2Yd52qNYW3/61082.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Samurai X S01 E02" tvg-logo="http://tv.iptv5latino.cl:8000/images/de28f0606023b7fb2b20f83410aae66c.jpg" group-title="SERIES ANIME",Samurai X S01 E02
 http://tv.iptv5latino.cl:8000/series/quinta1mes480/2Yd52qNYW3/61083.mp4
